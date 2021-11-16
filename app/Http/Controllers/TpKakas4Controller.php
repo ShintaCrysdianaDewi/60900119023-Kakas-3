@@ -6,5 +6,7 @@ use Illuminate\Http\Request;
 
 class TpKakas4Controller extends Controller
 {
-    //
+    public function index (){
+
+    }
 }
